@@ -6,7 +6,7 @@ export default function Home() {
     <div> 
       <Head>
         <title>Learn with us...</title>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/code.png" />
       </Head>
      
      <MyLayout />

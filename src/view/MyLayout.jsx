@@ -1,10 +1,11 @@
 import React from 'react'
-import HeaderNav from './HeaderNav'
+import Header from './Header'
 
 export default function MyLayout() {
   return (
     <>
-      <HeaderNav />
+      {/* <HeaderNav /> */}
+      <Header />
     </>
   )
 }

@@ -9,8 +9,13 @@ module.exports = {
        'Grandient-2': "#ff8a00",
        'Solid-1': "#ff8a00",
        'Solid-2': "#5c5c5c",
+       'Nav-color': "#FFC000",
+       "HoverColor": "#FFFF",
      },
     extend: {},
+    fontFamily: {
+      ProximaNova: ["Proxima+Nova"]
+    }
   },
   plugins: [],
 }
